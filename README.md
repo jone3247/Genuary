@@ -1,8 +1,19 @@
-# Fun Art Projects
+# Data Visualization Portfolio
+
+For more about my illustrations and comics visit my website: [mwdjones.github.io](mwdjones.github.io)
+
+## Publication Quality Visualizations
+
+These are all pieces that I have made over the years for presentations, posters, or papers. Since they each display slightly more technical information in the context of a longer report and are therefore not meant to be standalone, I have included a small snippet about the research with each one. 
+
+
+## Editorial Visualizations
+
+These are visualizations that I have developed that were not for a specific paper but more just to explore the medium. Each should be completely digestible on its own, without additional text. 
+
+## Some Personal Art Projects in R/Python
 
 Personal art projects! Some from the Genuary challenge, some just my own. Some complicated, some mysteriously simple. 
-
-## Examples
 
 **random-walk-graphs** : Based on the 2022 Genuary art prompt: Create your own pseudo-random number generator and visually check the results. This piece generates a random walk on a canvas and then connects all the adjacent points to create a nebulus rorschach-like image. What do you see?
 
